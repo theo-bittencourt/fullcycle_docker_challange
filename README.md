@@ -6,7 +6,7 @@
 docker run theob/codeeducation
 ```
 
-## Nginx App
+## Nginx/Node App
 
 ```bash
 cd nginx_nodejs_app
